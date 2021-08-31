@@ -14,8 +14,4 @@ More in detail, when run, this robot will:
 - write log and report files
 - close the browser
 
-You can find more details and a full explanation of the code on [Robocorp documentation](https://robocorp.com/docs/development-howtos/browser/rpa-form-challenge)
-
-Click the link below to get to the code:
-
-[tasks.robot](./tasks.robot)
+You can find more details and a full explanation of the code on [Robocorp documentation](https://robocorp.com/docs/development-guide/browser/rpa-form-challenge)
