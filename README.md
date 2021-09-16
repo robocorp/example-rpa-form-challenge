@@ -15,3 +15,5 @@ More in detail, when run, this robot will:
 - close the browser
 
 You can find more details and a full explanation of the code on [Robocorp documentation](https://robocorp.com/docs/development-guide/browser/rpa-form-challenge)
+
+> This example contains two versions of the robot - one written in Robot Framework syntax, the other in Python.

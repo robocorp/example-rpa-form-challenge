@@ -1,16 +1,8 @@
 tasks:
-  Challenge:
-    command:
-      - python
-      - -m
-      - robot
-      - --report
-      - NONE
-      - -d
-      - output
-      - --logtitle
-      - Task log
-      - tasks.robot
+  Challenge (Robot Framework):
+    shell: python -m robot --report NONE --outputdir output --logtitle "Task log" tasks.robot
+  Challenge (Python):
+    shell: python tasks.py
 
 condaConfigFile: conda.yaml
 artifactsDir: output
