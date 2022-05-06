@@ -1,7 +1,7 @@
 tasks:
-  Challenge (Robot Framework):
+  Challenge Robot Framework:
     shell: python -m robot --report NONE --outputdir output --logtitle "Task log" tasks.robot
-  Challenge (Python):
+  Challenge Python:
     shell: python tasks.py
 
 condaConfigFile: conda.yaml
